@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\",
+  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\ProjetoAPICatalogo\\APICatalogo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|c:\\users\\moraes\\documents\\estd\\apis\\7-criando o projeto\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|c:\\users\\moraes\\documents\\estd\\projetoapicatalogo\\apicatalogo\\apicatalogo\\apicatalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\apicatalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
-              "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T13:38:26.361Z",
+              "Title": "APICatalogo",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\ProjetoAPICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+              "RelativeDocumentMoniker": "APICatalogo\\APICatalogo.csproj",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\ProjetoAPICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+              "RelativeToolTip": "APICatalogo\\APICatalogo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T14:25:33.067Z",
               "EditorCaption": ""
             }
           ]
