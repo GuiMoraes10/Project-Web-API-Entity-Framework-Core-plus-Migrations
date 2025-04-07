@@ -6,6 +6,8 @@ namespace APICatalogo.Context;
 // DbContext - Representa uma sessao com o banco de dados sendo a ponte entre as entidades de dominio e o banco
 // DbSet<T> - Representa uma colecao de entidades no contexto que podem ser consultadas no banco de dados
 
+// String de conexao sera incluida em appsetings.json
+
 // DbContext e responsavel realizar a comunicacao entre as entidades e o banco de dados, gerenciando interacoes, consultas, atualizacoes
 public class AppDbContext : DbContext
 {
