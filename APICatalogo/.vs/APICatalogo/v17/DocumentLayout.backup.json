@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|c:\\users\\moraes\\documents\\estd\\apis\\7-criando o projeto\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|c:\\users\\moraes\\documents\\estd\\apis\\7-criando o projeto\\apicatalogo\\apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|c:\\users\\moraes\\documents\\estd\\apis\\7-criando o projeto\\apicatalogo\\apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|c:\\users\\moraes\\documents\\estd\\apis\\7-criando o projeto\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|c:\\users\\moraes\\documents\\estd\\apis\\7-criando o projeto\\apicatalogo\\apicatalogo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75211CE9-3BFA-4699-9940-0D8E96DE6E6E}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeToolTip": "APICatalogo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:59:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeToolTip": "APICatalogo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T16:59:04.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\WeatherForecast.cs",
+              "RelativeToolTip": "APICatalogo\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:58:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "APICatalogo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T16:58:47.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APICatalogo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\moraes\\Documents\\Estd\\APIs\\7-Criando o projeto\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APICatalogo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T16:57:59.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
