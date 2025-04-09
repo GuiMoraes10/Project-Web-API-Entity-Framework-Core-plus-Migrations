@@ -101,7 +101,6 @@ C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\De
 C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.APICatalogo.props
 C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.APICatalogo.props
 C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\Debug\net9.0\APICatal.C7776A93.Up2Date
 C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\Debug\net9.0\APICatalogo.dll
 C:\Users\moraes\Documents\Estd\ProjetoAPICatalogo\APICatalogo\APICatalogo\obj\Debug\net9.0\refint\APICatalogo.dll
