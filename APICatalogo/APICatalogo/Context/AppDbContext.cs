@@ -8,7 +8,7 @@ namespace APICatalogo.Context;
 
 // String de conexao sera incluida em appsetings.json
 
-// DbContext e responsavel realizar a comunicacao entre as entidades e o banco de dados, gerenciando interacoes, consultas, atualizacoes
+// DbContext e responsavel por realizar a comunicacao entre as entidades e o banco de dados, gerenciando interacoes, consultas, atualizacoes
 public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
